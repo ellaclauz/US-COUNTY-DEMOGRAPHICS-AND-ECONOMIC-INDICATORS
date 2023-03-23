@@ -1,7 +1,7 @@
 # US-COUNTY-DEMOGRAPHICS-AND-ECONOMIC-INDICATORS
 This dataset contains demographic and economic information for each county in the United States in 2015
 
-This dashboard provided inisghts on:
+This dashboard provided insights on:
 
 - The top 10 most populated and bottom 10 least populated states
 - The top 10 most populated and bottom 10 least populated county
